@@ -1,6 +1,9 @@
 
 Projeto Vision
 --------------
+live 1: [https://www.youtube.com/watch?v=3Si2rxoU4yk](https://www.youtube.com/watch?v=3Si2rxoU4yk)
+
+live 2: [https://www.youtube.com/watch?v=wCPHE51jPjM](https://www.youtube.com/watch?v=wCPHE51jPjM)
 
 Projeto dedicado a deficientes visuais. Apresenta algumas limitações, coloca objetos descreve coisas desnecessárias, valores trocados, etc, então tenha cuidado! 
 
