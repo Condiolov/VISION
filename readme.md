@@ -25,13 +25,11 @@ Simulação de uma foto de uma conta de agua:
 bash 0_vision.sh 
 
 resultado:
-
-exemplos/output1.wav (falado no celular)
+[./exemplos/output1.wav](./exemplos/output1.wav)
 
 Usando no pc para fala texto:
 
 python le_texto.py "Exemplo de como eu leio o Texto!"
 
 resultado:
-
-exemplos/output2.wav
+[./exemplos/output2.wav](./exemplos/output2.wav)
